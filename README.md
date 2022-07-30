@@ -1,2 +1,2 @@
 # my project
-https://github.com/idisima/assgn.git.table.html
+https://github.com/idisima/assgn.git.allover.html
